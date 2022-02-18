@@ -27,18 +27,22 @@ mediterráneo de interior.
 El objetivo de este proyecto es determinar si se podrían elaborar una serie de normas y
 restricciones en función de la temperatura media de un lugar y la conclusión a la que podemos
 llegar es que si podríamos establecer medidas como:
+
  En los meses, de noviembre a febrero, donde la temperatura media diaria está entre los
 12 y los 20 ºC, se limitará al nivel máximo la interacción social, ya que sabemos que
 estas temperaturas medias se traducen en un mayor nivel de contagio.
+
  En los meses de septiembre, octubre, marzo y abril, cuando las temperaturas son
 templadas las medidas de control y restricción de movilidad e interacción podrían ser
 de intensidad media, promoviendo que las reuniones de personas se realizasen en las
 horas centrales del día, donde se garantiza que la temperatura está por encima de los
 15ºC.
+
  Finalmente en los meses de mayo, junio, julio y agosto, donde la temperatura media
 sobrepasa los 20ºC, se puede permitir más interacción social, sin limitación de horario,
 y se promoverán las actuaciones al aire libre, no en espacios cerrados, con aire
 acondicionado.
+
 Aunque este estudio nos arroja unos datos con bastante exactitud sobre la correlación
 entre la temperatura y la incidencia de contagio del Covid, no podemos olvidar que
 posiblemente el factor que mayor relevancia tiene en esta incidencia de contagio sea el
